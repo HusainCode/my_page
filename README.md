@@ -50,7 +50,3 @@ Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/h
 - [LinkedIn](https://www.linkedin.com/in/husain-alshaikhahmed-a6892617b)
 - [YouTube](https://www.youtube.com/channel/UCXXXXXXX)
 - [AlgoExpert](https://www.algoexpert.io)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
