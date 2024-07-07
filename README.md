@@ -43,7 +43,7 @@ Check out my projects below:
 
 ## Contact Me
 
-Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/husain-alshaikhahmed-a6892617b) profile or via email at `your-email@example.com`.
+Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/husain-alshaikhahmed-a6892617b) profile or via email at `Alshaikhahmed@hotmail.com`.
 
 ## Social Media
 
