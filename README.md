@@ -1,3 +1,5 @@
+![Project Status](https://img.shields.io/badge/status-in_progress-yellow)
+<hr>
 # Husain Alshaikhahmed's Personal Website
 
 Welcome to my personal website repository! This site serves as an online resume and portfolio, showcasing my skills, experience, and projects.
